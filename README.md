@@ -6,11 +6,11 @@
 
 ### About Me
 
-I'm a self-driven developer with a deep curiosity for new technologies and domains. Generally drive by passion, caffine and curiosity to build, break, and improve things. Currently working as a **Software Specialist at PTC**, where I've contributed in cloud migration and PLM systems.
+I'm a self-driven developer with a deep curiosity for new technologies and domains. Generally drive by passion and caffine to build, break, and improve things. Currently working as a **Software Specialist at PTC**, where I've contributed in cloud migration and PLM systems.
 
 Previously, I was a **Software Engineer at miniOrange**, building security solutions with SAML, OAuth, and REST APIs.
 
-When I'm not coding, you'll find me traveling to new places, immersing myself in different cultures, playing guitar, swimming, or smashing it on the badminton court.
+When I'm not coding, you'll find me traveling to new places, immersing myself in different cultures, swimming, or smashing it on the badminton court.
 
 ---
 
@@ -38,11 +38,16 @@ SAML • OAuth • REST APIs • NLP • Computer Vision • Fuzzy Logic • 805
 
 ### 🚀 Featured Projects
 
+- **[Zip Editor](https://aryan-78.github.io/zip/)**
+
+  As during Migration in PTC, customer providing wrong package wrt format or structure which was a challenge as it passes pre-validation and can block pipeline for 22 hrs, leading to significant pipeline delays
+
+  Solution - A Better package monitoring mechanism used specifically when customer requested. 
+  
+  [ Impact was reduced long-running pipeline failures, minimized engineering idle time, and saved multiple pipeline processing days by preventing late-stage execution breakdowns. ]
+
 - **[Sorting Algorithm Visualizer](https://aryan-78.github.io/sorting/)**  
   Interactive web tool to visualize various sorting algorithms in action.
-
-- **[Zip Editor](https://aryan-78.github.io/zip/)**  
-  A beautiful modern web tool to **view, preview images, and edit text files** inside ZIP archives directly in the browser. Supports View Only & Editable modes with one-click modified ZIP download.
 
 - **[Turtle Race Master](https://github.com/Aryan-78/Using-Fuzzy-Logic-as-a-turtle-race)**  
   A turtle racing simulator built from scratch using **fuzzy logic** (no built-in library). Calculates crisp values and declares a winner.
