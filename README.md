@@ -40,11 +40,10 @@ SAML • OAuth • REST APIs • NLP • Computer Vision • Fuzzy Logic • 805
 
 - **[Zip Editor](https://aryan-78.github.io/zip/)**
 
-  As during Migration in PTC, customer providing wrong package wrt format or structure which was a challenge as it passes pre-validation and can block pipeline for 22 hrs, leading to significant pipeline delays
+    A browser-based package inspection and editing tool built to solve a real production problem — during cloud migrations, customers frequently submitted malformed packages that bypassed pre-validation checks, stalling CI/CD pipelines for **22+ hours**.  
+  Zip Editor enables engineers to inspect, validate, and correct package contents on-demand before pipeline execution, eliminating late-stage failures.  
+  > 🚀 **Impact:** Reduced critical pipeline failures, recovered multiple engineering days lost to idle wait time, and improved overall deployment reliability.
 
-  Solution - A Better package monitoring mechanism used specifically when customer requested. 
-  
-  [ Impact was reduced long-running pipeline failures, minimized engineering idle time, and saved multiple pipeline processing days by preventing late-stage execution breakdowns. ]
 
 - **[Sorting Algorithm Visualizer](https://aryan-78.github.io/sorting/)**  
   Interactive web tool to visualize various sorting algorithms in action.
