@@ -12,6 +12,8 @@ Previously, I was a **Software Engineer at miniOrange**, building security solut
 
 When I'm not coding, you'll find me traveling to new places, immersing myself in different cultures, swimming, or smashing it on the badminton court.
 
+⚡ Fun Fact - Most of my best ideas come in that half-asleep drifting-off state right before sleep 🌙💡
+
 ---
 
 ### 🛠️ Skills & Technologies
